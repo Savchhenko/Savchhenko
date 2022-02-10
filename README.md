@@ -15,13 +15,12 @@
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
 
-## 👩‍💻I’m currently learning React.js ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) and Angular ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular)
+## 👩‍💻I’m currently learning React.js and Angular ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular)
 
 ## ✉️ Mail me: svchhh@yandex.ru
 ## 🌐 Telegram, Instagram: @svchhh
 
 
-#
 ### My favorite quote:
 > Imperfect action is better than perfect inaction. <br/>
 > ***Harry S. Truman***
