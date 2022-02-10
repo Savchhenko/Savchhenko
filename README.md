@@ -1,9 +1,10 @@
-#👋 Hello! My name is Alexandra Savchenko and I'm a beginner *Fronted developer* from Voronezh, Russia.
+# 👋 Hello! My name is Alexandra Savchenko and I'm a beginner *Fronted developer* from Voronezh, Russia.
 👩‍🎓This year I will get a bachelor's degree in computer science and computer engineering at Voronezh State University.
 
 I don't have any commercial experience in web development, so here you can find only my learning projects.
 
-##**Languages and technologies**
+## **Languages and technologies**
+
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
@@ -14,10 +15,10 @@ I don't have any commercial experience in web development, so here you can find 
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
 
-##👩‍💻I’m currently learning React.js and Angular
+## 👩‍💻I’m currently learning React.js and Angular
 
-##✉️ Mail me: svchhh@yandex.ru
-##🌐 Telegram, Instagram: @svchhh
+## ✉️ Mail me: svchhh@yandex.ru
+## 🌐 Telegram, Instagram: @svchhh
 
 
 #
