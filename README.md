@@ -12,16 +12,16 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
+![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
 
 ## 👩‍💻I’m currently learning React.js and Angular ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular)
 
-## ✉️ Mail me: svchhh@yandex.ru
+## ✉️ My email: svchhh@yandex.ru
 ## 🌐 Telegram, Instagram: @svchhh
 
 
 ### My favorite quote:
 > Imperfect action is better than perfect inaction. <br/>
 > ***Harry S. Truman***
-
