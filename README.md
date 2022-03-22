@@ -19,7 +19,7 @@
 ## 👩‍💻I’m currently learning React.js and Angular ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular)
 
 ## ✉️ My email: svchhh@yandex.ru
-## 🌐 Telegram, Instagram: @svchhh
+## 🌐 Telegram: @svchhh
 
 
 ### My favorite quote:
