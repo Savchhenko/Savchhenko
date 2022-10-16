@@ -1,7 +1,7 @@
 # 👋 Hello! My name is Alexandra Savchenko and I'm a beginner *Frontend developer* from Voronezh, Russia.
 ### 👩‍🎓This year I got a bachelor's degree in computer science and computer engineering at Voronezh State University.
 
-### I don't have any commercial experience in web development, so here you can find only my learning projects. The most interesting of them are pinned below
+### Here you can find my web projects. The most interesting of them are pinned below. Or follow [this link](https://alexandra-savchenko.vercel.app/) to see my portfolio website
 
 ## **Languages and technologies**
 
@@ -16,7 +16,7 @@
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
 
-## 👩‍💻I’m currently learning Vue.js, React.js and Angular ![Vue](https://img.shields.io/badge/Vue.js-090909?style=for-the-badge&logo=vue.js) ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular)
+## 👩‍💻I’m currently learning React.js and Angular ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular)
 
 ## ✉️ My email: svchhh@yandex.ru
 ## 🌐 Telegram: @svchhh
