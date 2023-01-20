@@ -16,7 +16,7 @@
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
 
-## 👩‍💻I’m currently learning React.js, Vue.js, and Node.js ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue) ![Node.js](https://img.shields.io/badge/-Node-090909?style=for-the-badge&logo=Node)
+## 👩‍💻I’m currently learning React.js, Vue.js, and Node.js ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) ![Vue](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=Vue.js) ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 
 ## ✉️ My email: svchhh@yandex.ru
 ## 🌐 Telegram: @svchhh
