@@ -2,7 +2,7 @@
 ### 👩‍🎓2022 was a year I got a bachelor's degree in computer science and computer engineering at Voronezh State University. 
 
 ### Here you can find my web projects. The most interesting of them are pinned below. 
-Also you can follow [this link](https://alexandra-savchenko.vercel.app/) to see my portfolio website
+Also you can follow [this link](https://alexandra-savchenko.vercel.app/) to see my portfolio website.
 
 ## **Languages and technologies**
 
