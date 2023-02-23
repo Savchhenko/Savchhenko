@@ -1,5 +1,5 @@
 # 👋 Hello! My name is Alexandra Savchenko and I'm a *Frontend developer* from Voronezh, Russia.
-### 👩‍🎓2022 was a year I got a bachelor's degree in computer science and computer engineering at Voronezh State University. 
+### 👩‍🎓2022 was a year I got a bachelor's degree in computer science and computer engineering at Voronezh State University and started my career path in Frontend development.
 
 ### Here you can find my web projects. The most interesting of them are pinned below. 
 Also you can follow [this link](https://alexandra-savchenko.vercel.app/) to see my portfolio website.
