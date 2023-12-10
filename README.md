@@ -12,12 +12,15 @@ Also you can follow [this link](https://alexandra-savchenko.vercel.app/) to see 
 ![LESS](https://img.shields.io/badge/-LESS-090909?style=for-the-badge&logo=LESS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![Three.js](https://img.shields.io/badge/-Three.js-090909?style=for-the-badge&logo=Three.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
+![MongoDB](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=Mongodb)
 
-## 👩‍💻I’m currently learning React.js and Node.js ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
+## 👩‍💻I’m currently learning Node.js and Express.js ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js) ![Express.js](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
 
 ## ✉️ My email: svchhh@yandex.ru
 ## 🌐 Telegram: @svchhh
