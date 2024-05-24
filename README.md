@@ -18,9 +18,11 @@ Also you can follow [this link](https://alexandra-savchenko.vercel.app/) to see 
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=Mongodb)
 
-## 👩‍💻I’m currently learning Node.js and Express.js ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js) ![Express.js](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
+## 👩‍💻I’m currently learning Next.js  ![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=Next.js)
 
 ## ✉️ My email: svchhh@yandex.ru
 ## 🌐 Telegram: @svchhh
